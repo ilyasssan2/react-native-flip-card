@@ -33,5 +33,8 @@
   "homepage": "https://github.com/moschan/react-native-flip-card#readme",
   "dependencies": {
     "prop-types": "^15.5.10"
+  },
+  "peerDependencies": {
+    "deprecated-react-native-prop-types":"*"
   }
 }
